@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Amir DIB
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Phd Candidate in Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Centre Borelli, ENS Paris-Saclay University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research revolves around ML applied to predictive maintenance
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Temporal Sequence classification
+- Pattern Mining
 
 education:
   courses:
