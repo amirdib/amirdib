@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Onadap"
-summary: ""
-authors: []
+summary: "Le projet vise à la mise en place d’un outil d’aide à la décision pour les hôpitaux et autres unités sensibles soumis à l’attrition du personnel atteint par le COVID-19. L’objectif est de produire des rapports journaliers permettant à la fois de visualiser l’évolution de l’épidémie à l’échelle de l’unité, mais aussi de proposer des projections à quelques jours et enfin d’évaluer a priori les scénarios de redéploiement des personnels ou de réorganisation interne."
+authors: ["Amir Dib", "Brian Tervil", "Alice Nicolai", "Antoine Mazarguil", "Eglantine Schmiddt", "CITIO"]
 tags: []
 categories: []
 date: 2020-10-06T16:57:09+02:00
@@ -30,7 +30,8 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=mJ43NwlYBiY&feature=emb_title"
+url_custom = [{name = "Media", url = "https://lejournal.cnrs.fr/articles/un-logiciel-pour-gerer-les-forces-vives-dun-hopital-en-temps-de-crise"}]
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
