@@ -27,15 +27,15 @@ interests:
 - Pattern Mining
 - Programming & Numerical Computing
 
+
 education:
   courses:
-  - course: Msc in Probability & Finance 
-	(DEA El Karoui)
+  - course: Msc in Probability & Finance (DEA El Karoui)
     institution: Sorbonne University, École Polytechnique
-    year: 2014-2015
+    year: 2014
   - course: Msc Fundamental Physics
     institution: Paris-Saclay University
-    year: 2012-2015
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
