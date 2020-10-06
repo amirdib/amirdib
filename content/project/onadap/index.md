@@ -31,7 +31,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=mJ43NwlYBiY&feature=emb_title"
-url_custom = [{name = "Media", url = "https://lejournal.cnrs.fr/articles/un-logiciel-pour-gerer-les-forces-vives-dun-hopital-en-temps-de-crise"}]
+# url_custom = [{name = "Media", url = "https://lejournal.cnrs.fr/articles/un-logiciel-pour-gerer-les-forces-vives-dun-hopital-en-temps-de-crise"}]
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
