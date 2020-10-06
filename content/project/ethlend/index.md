@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ethlend"
-summary: ""
+title: "Aave (ETHLend)"
+summary: "ETHLend is a fully decentralized financial marketplace built on top of the Ethereum Network allowing lenders and borrowers from all over the world to create peer to peer lending agreements in a secure and transparent way using Blockchain and Smart Contracts."
 authors: []
 tags: []
 categories: []
-date: 2020-10-06T16:57:14+02:00
+date: 2018-03-01:00:00+00:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://aave.com/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/aave/aave-protocol"
+url_pdf: "https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md"
 url_slides: ""
 url_video: ""
 
