@@ -22,7 +22,7 @@ publication_short: "NeurIPS2020"
 abstract: "We present Quantized Variational Inference, a new algorithm for Evidence Lower Bound minimization. We show how Optimal Voronoi Tesselation produces variance free gradients for Evidence Lower Bound (ELBO) optimization at the cost of introducing asymptotically decaying bias."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Advances in Neural Information Processing Systems 32 (NeurIPS 2020)"
 
 tags: []
 categories: []
