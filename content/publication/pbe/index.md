@@ -1,28 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Quantized Variational Inference"
-authors: ["Amir Dib"]
-date: 2020-10-06T16:26:14+02:00
+title: "Pbe"
+authors: []
+date: 2020-10-06T16:57:54+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-06T16:26:14+02:00
+publishDate: 2020-10-06T16:57:54+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Conference on Neural Information Processing Systems (NeurIPS 2020), Vancouver, Canada."
-publication_short: "NeurIPS2020"
+publication: ""
+publication_short: ""
 
-abstract: "We present Quantized Variational Inference, a new algorithm for Evidence Lower Bound minimization. We show how Optimal Voronoi Tesselation produces variance free gradients for Evidence Lower Bound (ELBO) optimization at the cost of introducing asymptotically decaying bias."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Advances in Neural Information Processing Systems (NeurIPS 2020)"
+summary: ""
 
 tags: []
 categories: []
