@@ -48,6 +48,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/amirdib
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/amir-dib-b0345175/
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
