@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Rolling Stock Summit 2018"
+title: "6th Annual Rolling Stock Fleet Maintenance 2017"
 event:
 event_url:
 location:
