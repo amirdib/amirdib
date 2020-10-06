@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Votingmap"
+title: "Vizualisation App for election results in Paris department"
 summary: ""
-authors: []
-tags: []
+authors: ["Amir Dib"]
+tags: [d3, javascript, programming]
 categories: []
-date: 2020-10-06T16:57:24+02:00
+date: 2018-01-00T00:00:00+00:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/amirdib/resultmap"
 url_pdf: ""
 url_slides: ""
 url_video: ""
