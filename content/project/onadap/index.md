@@ -4,8 +4,8 @@
 title: "Onadap"
 summary: "Le projet vise à la mise en place d’un outil d’aide à la décision pour les hôpitaux et autres unités sensibles soumis à l’attrition du personnel atteint par le COVID-19. L’objectif est de produire des rapports journaliers permettant à la fois de visualiser l’évolution de l’épidémie à l’échelle de l’unité, mais aussi de proposer des projections à quelques jours et enfin d’évaluer a priori les scénarios de redéploiement des personnels ou de réorganisation interne."
 authors: ["Amir Dib", "Brian Tervil", "Alice Nicolai", "Antoine Mazarguil", "Eglantine Schmiddt", "CITIO"]
-tags: []
-categories: []
+tags: [covid, javascript, programming]
+categories: [covid]
 date: 2020-10-06T16:57:09+02:00
 
 # Optional external URL for project (replaces project detail page).
@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Follow
+  url: https://twitter.com
+  icon_pack: fab
+  icon: twitter
 
 url_code: ""
 url_pdf: ""
