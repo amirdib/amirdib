@@ -22,9 +22,10 @@ bio: My research revolves around ML applied to predictive maintenance
 
 interests:
 - Machine Learning
+- Bayesian Statistics
 - Temporal Sequence classification
 - Pattern Mining
-- Programming
+- Programming & Numerical Computing
 
 education:
   courses:
