@@ -15,7 +15,7 @@ role: Phd Candidate in Machine Learning
 # Organizations/Affiliations
 organizations:
 - name: Centre Borelli, ENS Paris-Saclay University
-  url: ""
+  url: "https://centreborelli.cnrs.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research revolves around ML applied to predictive maintenance
@@ -24,6 +24,7 @@ interests:
 - Machine Learning
 - Temporal Sequence classification
 - Pattern Mining
+- Programming
 
 education:
   courses:
