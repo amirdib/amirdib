@@ -2,12 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Bayesian feature discovery applied to predictive maintenance"
-authors: [Amir Dib, Charles Truong, Laurent Oudre]
+authors: [Amir Dib, Charles Truong, Laurent Oudre, Nicolas Vayatis, Mathilde Mougeot]
 date: 2020-01-01T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-10-06T16:57:54+02:00
+publishDate: 2020-10-06T16:26:14+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "This paper considers predictive maintenance, which is the task of predicting rare and anomalous events (typically, system failures) using event logs data, which are series of time- stamped symbolic codes emitted at regular or irregular intervals by a monitored system. Our objective is to find small sets of codes (called itemsets or patterns) that occur shortly before failures. Current prediction methods either produce patterns at a high computational cost or resort to kernel approaches which are often difficult to interpret. We introduce Bayesian Pattern Feature Discovery (BPFD), a new generic algorithm for pattern discovery. Our method, based on a pattern mining technique, produces informative and explainable features and is computationally efficient. The performance of BPFD is highlighted on real-world data sets, showing that enriching the feature space with the discovered patterns improves significantly the prediction power of a broad range of predictors and offers useful insight on the predictive maintenance task."
 
 # Summary. An optional shortened abstract.
 summary: ""
