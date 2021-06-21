@@ -2,12 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Localized Pattern Mining"
-authors: ["Amir Dib*, Cyrus Cousins*"]
-date: 2021-06-01T16:26:14+02:00
+authors: ["Amir Dib, Cyrus Cousins"]
+date: 2021-01-06T16:26:14+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-06-21T16:26:14+02:00
+publishDate: 2020-10-06T16:26:14+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,8 @@ publication_types: ["1"]
 publication: "Conference on Neural Information Processing Systems (NeurIPS 2020), Vancouver, Canada."
 publication_short: "NeurIPS2020"
 
-abstract: "This paper considers the problem of finding the best sampling strategy for pattern mining problems, which can be stated as the task of computing the frequency at which a pattern, or a set of events, occurs in a database.
-This problem is ubiquitous in data mining, and is typically intractable, due to the exponentially large number of possible patterns that must be evaluated.
-Recent approaches use traditional tools from statistical learning theory to obtain uniform additive bounds on these frequencies, which are effective for \emph{frequent patterns}, but are generally unsatisfying for \emph{infrequent patterns}, which are typically the hardest to mine exactly.
-In this work, we propose the first bound based on \emph{localized Rademacher averages} (LRAs) in the context of pattern mining.
-We show that localized Rademacher averages are sufficient to obtain relative confidence interval estimates on pattern frequencies, as well as other interestingness measures, such as the \emph{lift}, \emph{confidence}, or \emph{odds ratio}, whereas previous message fail to do so for low-frequency patterns.
-Our methods rely on standard tools in the pattern mining repertoire, such as closed pattern families, antimonotonicity, and Monte-Carlo Rademacher averages, as well as new techniques we introduce to address the problem-specific computational challenges arising from evaluating the localized Rademacher average.
-The performance of our approach is empirically demonstrated on real-world datasets, wherein exhibit fast convergence rates for the considered subclass of patterns, sharply contrasting existing work."
+abstract: "Not Available"
+
 # Summary. An optional shortened abstract.
 summary: "Submitted."
 
